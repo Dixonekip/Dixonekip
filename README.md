@@ -2,7 +2,7 @@
 
 ## I'm Dickson kiprop
 
-I’m a passionate digital content creator,love Python and ata analysis, and more.
+I’m a passionate digital content creator,love Python and data analysis, and more.
 
 ---
 
